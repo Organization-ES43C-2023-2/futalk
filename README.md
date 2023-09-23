@@ -7,7 +7,7 @@
 + Semestre: Terceiro semestre
 ### Autores do projeto:
 + (foto) - Luis Paulo Lopes Gonçalves - RA: 2417774 - Link para o Github:
-+ (foto) - Lucas Philot Gonçalves - RA: 252879 - Link para o GitHub:
++ (foto) - Luccas Philot Gonçalves - RA: 2525879 - Link para o GitHub:https://github.com/luccasPhilot
 + (foto) - Ricardo Henrique Almeida da Silva - RA: 2539047 - Link para o GitHub:
 + (foto) - Willian Hiroshi Fukuda - RA: 2209624 - Link para o GitHub:
 + (foto) - Pedro Araujo Bueno de Oliveira - RA: 2267730 - Link para o GitHub:
