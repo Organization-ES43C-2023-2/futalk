@@ -10,8 +10,7 @@ RF05 | O usuário deve poder criar/visualizar postagens, além de conseguir filt
 RF06 | O usuário deve poder criar/entrar em comunidades. | Média | RF01 |
 RF07 | O usuário deve poder fazer conexões com outros perfis. | Média | RF01 |
 RF08 | O usuário deve poder acompanhar partidas e seus resultados | Média | RF01 |
-RF09 | | | |
-RF10 | | | |
+
 
 Tabela 1: Requisitos Funcionais
 
