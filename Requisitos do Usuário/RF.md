@@ -12,6 +12,7 @@ RF07 | O usuário deve poder fazer conexões com outros perfis. | Média | RF01 
 RF08 | O usuário deve poder acompanhar partidas e seus resultados | Média | RF01 |
 
 
+
 Tabela 1: Requisitos Funcionais
 
 # 2. Referências
