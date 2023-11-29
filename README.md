@@ -14,7 +14,7 @@
 + Henrique Rodrigues Couto Jardim - RA: 02144034 - Github
 ## Descrição do projeto:
 + Objetivos:
-  - Objetivo do sistema 
+  - Objetivo do sistema é conectar amantes do esporte por meio de um estilo inovador de rede social, com um sistema baseado nas principais redes sociais atuais, o futalk promove uma intereção imersiva com o esporte. Com funcionalidades de acompanhar as principais notícias do mundo da bola ou criar comunidades para interações dos usuários com temas/assuntos especificos, criação de partidas personalidas para promover o social do futebol, entre outros. Acreditamos que o futalk será uma experiência única quando o assunto é futebol. 
 + Principais Funcionalidades:
 
   - Criação da conta com perfil personalizavel;
