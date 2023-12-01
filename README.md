@@ -29,6 +29,8 @@
   - O público alvo são os apixonados(as) por futebol.
     
 + Design:
+
+    - Design minimalista e intuitivo, onde o usuário irá conseguir usufrui de todas as funcionalidades propostas pelo no aplicativo, o aplicativo foi pensado para usuários de diversas idades então optamos por basear o design do Futalk para os padrões de IHC (interação humano e computador) para que a navegação fosse prática para usuários finais.
 ## Links diretos
 
-+ Figma: https://www.figma.com/file/ZbrKepXkuvlzArV1B5zbp3/instagram-(Community)?type=design&node-id=0-1&mode=design&t=uTjO2OfNUNnzV7IP-0
++ Figma (Protótipo de alta fidelidade): https://www.figma.com/file/ZbrKepXkuvlzArV1B5zbp3/instagram-(Community)?type=design&node-id=0-1&mode=design&t=uTjO2OfNUNnzV7IP-0
