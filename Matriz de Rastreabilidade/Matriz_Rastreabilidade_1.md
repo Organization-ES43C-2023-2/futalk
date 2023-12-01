@@ -12,6 +12,4 @@
 | RF06: Usuário deve poder criar/entrar em comunidades         |          |          |          |          |          |          |          |          |           |
 | RF07: Usuário deve poder fazer conexões com outros perfis         |          |          |          |          |          |          |          |          |           |
 | RF08: Usuário deve poder acompanhar partidas e seus resultados         |          |          |          |          |          |          |          |          |           |
-|         |          |          |          |          |          |          |          |          |           |
-|          |          |          |          |          |          |          |          |          |           |
 
