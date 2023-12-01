@@ -22,7 +22,7 @@
   - Criação ou participar de comunidades;
   - Interação com vídeos/postagens;
   - Encontrar ou divulgar partidas amistosas, campeonatos amadores, ou "rachões" para participar;
-  - Funcionalidade One-game focada para ex-jogadores, ou jogadores semi-profissionais, tal funcionalidade consiste no atleta ativa-lá em seu perfil onde ele especificará um valor para jogar uma determinada partida.
+  - Funcionalidade One-game focada para ex-jogadores, ou jogadores semi-profissionais, tal funcionalidade consiste no atleta ativa-lá em seu perfil onde ele especificará um valor para jogar uma determinada partida (ainda em votação para decidir se tal funcionalidade permanecerá).
     
 + Público alvo:
 
